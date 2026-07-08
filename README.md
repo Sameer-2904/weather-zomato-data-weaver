@@ -180,4 +180,4 @@ If you encounter any issues:
 
 ---
 
-**Built with ❤️ using Python, Pandas, and Streamlit | Powered by Kiro AI Assistant**
+**Built with ❤️ using Python, Pandas, and Streamlit**
